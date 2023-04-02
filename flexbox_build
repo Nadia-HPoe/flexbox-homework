@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_css/flexcss.css">
+    <title>Flexbuild_week5</title>
+    
+</head>
+<body>
+    <header class="head">Шапка страницы</header>
+
+    <main>
+        <div class="main">Основная часть
+        <p class="mainsec">Еще 1</p>
+        <p class="mainsec">Еще 2</p>
+        <p class="mainsec1">Еще 3</p>
+    
+   
+</div>
+<section class="sideinfo">Боковая область</section>
+</main>
+
+    <footer>
+        <div class="footcontainer">  
+            <p class="footsec">Секция футера 1</p>
+            <p class="footsec">Секция футера 2</p>
+            <p class="footsec">Секция футера 3</p>
+            <p class="footsec">Секция футера 4</p>
+        <div>  
+    
+    </footer>
+</body>
+</html>
