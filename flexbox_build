@@ -12,13 +12,14 @@
     <header class="head">Шапка страницы</header>
 
     <main>
-        <div class="main">Основная часть
-        <p class="mainsec">Еще 1</p>
-        <p class="mainsec">Еще 2</p>
-        <p class="mainsec1">Еще 3</p>
-    
-   
-</div>
+        
+        <div class="main">
+            <p id="mainname">Основная часть</p>
+            <p class="mainsec">Еще 1</p>
+            <p class="mainsec">Еще 2</p>
+            <p class="mainsec1">Еще 3</p>
+        </div>
+
 <section class="sideinfo">Боковая область</section>
 </main>
 
